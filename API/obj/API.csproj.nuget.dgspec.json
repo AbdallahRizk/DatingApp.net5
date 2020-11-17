@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abmri\\OneDrive\\Desktop\\dotnet\\DatingApp\\API\\API.csproj": {}
+    "/Users/abdallahrizk/Desktop/dotnet/DatingApp.net5/API/API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abmri\\OneDrive\\Desktop\\dotnet\\DatingApp\\API\\API.csproj": {
+    "/Users/abdallahrizk/Desktop/dotnet/DatingApp.net5/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abmri\\OneDrive\\Desktop\\dotnet\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "/Users/abdallahrizk/Desktop/dotnet/DatingApp.net5/API/API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\abmri\\OneDrive\\Desktop\\dotnet\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\abmri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abmri\\OneDrive\\Desktop\\dotnet\\DatingApp\\API\\obj\\",
+        "projectPath": "/Users/abdallahrizk/Desktop/dotnet/DatingApp.net5/API/API.csproj",
+        "packagesPath": "/Users/abdallahrizk/.nuget/packages/",
+        "outputPath": "/Users/abdallahrizk/Desktop/dotnet/DatingApp.net5/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abmri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/abdallahrizk/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -87,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
