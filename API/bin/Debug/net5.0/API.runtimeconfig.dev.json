@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/abdallahrizk/.dotnet/store/|arch|/|tfm|",
-      "/Users/abdallahrizk/.nuget/packages"
+      "C:\\Users\\abmri\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\abmri\\.nuget\\packages"
     ]
   }
 }

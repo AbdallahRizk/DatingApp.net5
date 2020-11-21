@@ -1571,24 +1571,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/abdallahrizk/.nuget/packages/": {}
+    "C:\\Users\\abmri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abdallahrizk/Desktop/dotnet/DatingApp.net5/API/API.csproj",
+      "projectUniqueName": "C:\\Users\\abmri\\OneDrive\\Desktop\\dotnet\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/abdallahrizk/Desktop/dotnet/DatingApp.net5/API/API.csproj",
-      "packagesPath": "/Users/abdallahrizk/.nuget/packages/",
-      "outputPath": "/Users/abdallahrizk/Desktop/dotnet/DatingApp.net5/API/obj/",
+      "projectPath": "C:\\Users\\abmri\\OneDrive\\Desktop\\dotnet\\DatingApp\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\abmri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abmri\\OneDrive\\Desktop\\dotnet\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/abdallahrizk/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\abmri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1654,7 +1656,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
