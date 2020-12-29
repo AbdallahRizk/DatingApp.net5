@@ -1572,20 +1572,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abmri\\.nuget\\packages\\": {}
+    "C:\\Users\\AbdallahRizk\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\abmri\\OneDrive\\Desktop\\dotnet\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\AbdallahRizk\\Desktop\\latestdotnet\\DatingApp.net5\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\abmri\\OneDrive\\Desktop\\dotnet\\DatingApp\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\abmri\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\abmri\\OneDrive\\Desktop\\dotnet\\DatingApp\\API\\obj\\",
+      "projectPath": "C:\\Users\\AbdallahRizk\\Desktop\\latestdotnet\\DatingApp.net5\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\AbdallahRizk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AbdallahRizk\\Desktop\\latestdotnet\\DatingApp.net5\\API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\abmri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\AbdallahRizk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
